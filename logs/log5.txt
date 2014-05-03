@@ -1,0 +1,225 @@
+12447
+THROUGHPUT=20701.77
+BURST_SIZE=100
+RT_LATENCY=8606.324
+THROUGHPUT_CONFID=283.748
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    1:    0:    1:    1:    0
+HUNDRED_USEC  :    0:   64:  362:  589: 1107: 1763: 3190: 56437: 755139: 188838
+UNIT_MSEC     :    0: 11438: 3466: 6724: 4600: 7885: 9591: 27542: 910008: 80895
+TEN_MSEC      :    0:  248:    0:  124:   98:    0:    0:   95:   61:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      2070267
+THROUGHPUT=11733.64
+BURST_SIZE=150
+RT_LATENCY=12832.437
+THROUGHPUT_CONFID=1.696
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    1
+HUNDRED_USEC  :    0:   43:   36:   38:   39:   44:   91:   98:   95:  112
+UNIT_MSEC     :    0: 2563: 2471: 6325: 4472: 8411: 10407: 6883: 16416: 8001
+TEN_MSEC      :    0: 1106813:   18:   12:    9:    0:    0:    7:    3:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      1173408
+THROUGHPUT=63960.51
+BURST_SIZE=200
+RT_LATENCY=18225.161
+THROUGHPUT_CONFID=147.027
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    2:    1:    1:    2:    1
+HUNDRED_USEC  :    0:   53:   67:  160:  142:  194:  205:  242:  197:  287
+UNIT_MSEC     :    0: 5811107: 11936: 12647: 16352: 9755: 10479: 7791: 15332: 9525
+TEN_MSEC      :    0: 488863:  181:  186:  123:    0:    0:   99:  103:  146
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      6396179
+THROUGHPUT=10946.40
+BURST_SIZE=250
+RT_LATENCY=22772.834
+THROUGHPUT_CONFID=1.912
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    1:    0:    0:    0
+HUNDRED_USEC  :    0:   16:   72:   38:   81:   10:    2:   18:    2:    0
+UNIT_MSEC     :    0:  893: 4037: 4944: 4894: 8538: 7958: 10260: 12028: 12755
+TEN_MSEC      :    0: 206890: 820209:  207:  393:    0:    0:  332:  141:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      1094719
+THROUGHPUT=10986.36
+BURST_SIZE=300
+RT_LATENCY=27287.433
+THROUGHPUT_CONFID=1.082
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    2:    0:    0:    0:    1
+HUNDRED_USEC  :    0:   27:   55:   37:  115:    8:    4:    0:    0:    1
+UNIT_MSEC     :    0:  965: 3957: 4924: 5127: 8097: 8711: 10080: 11799: 12949
+TEN_MSEC      :    0: 205157: 823902: 1995:  305:    0:    0:  322:  138:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      1098678
+THROUGHPUT=11631.22
+BURST_SIZE=350
+RT_LATENCY=29822.268
+THROUGHPUT_CONFID=5.169
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    1:    1:    0:    0:    0
+HUNDRED_USEC  :    0:    2:   25:   44:   61:   64:  105:  113:  101:  102
+UNIT_MSEC     :    0: 2218: 2677: 6151: 4452: 8330: 9916: 7990: 15655: 8658
+TEN_MSEC      :    0: 206761: 674844: 214752:   73:    0:    0:   76:   11:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      1163183
+THROUGHPUT=81850.07
+BURST_SIZE=400
+RT_LATENCY=4887.419
+THROUGHPUT_CONFID=55.520
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    0:    2:    2:    3
+HUNDRED_USEC  :    0:  168:  585: 1210: 1401: 1397: 2090: 2479: 2041: 2784
+UNIT_MSEC     :    0: 60365: 232568: 7490970: 23697: 31988: 18913: 11114: 10132: 9678
+TEN_MSEC      :    0: 150279: 116918: 13732:  291:    0:    0:  272:   53:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      8185132
+THROUGHPUT=85246.45
+BURST_SIZE=450
+RT_LATENCY=5285.168
+THROUGHPUT_CONFID=32.097
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    2:    1:    0:    0
+HUNDRED_USEC  :    0:   39:   70:  183:  229:   87:   58:  184:  176:  262
+UNIT_MSEC     :    0: 30978: 262022: 7817748: 79856: 15064: 17989: 12405: 16349: 8807
+TEN_MSEC      :    0: 179832: 81689:  103:  560:    0:    0:   71:   20:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      8524784
+THROUGHPUT=89381.00
+BURST_SIZE=500
+RT_LATENCY=5158.600
+THROUGHPUT_CONFID=20.969
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    0:    1:    1:    0
+HUNDRED_USEC  :    0:   29:  106:  131:   34:   18:   19:   50:   71:  267
+UNIT_MSEC     :    0: 31568: 302085: 493300: 7798702: 20378: 15983: 23797: 17152: 7722
+TEN_MSEC      :    0: 181149: 45501:   84:   49:    0:    0:   34:   23:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      8938254
+THROUGHPUT=94586.22
+BURST_SIZE=550
+RT_LATENCY=5630.922
+THROUGHPUT_CONFID=18.571
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    1:    3:    2:    4
+HUNDRED_USEC  :    0:  100:  206:  527:  824:  815: 1074: 1246: 1214: 1720
+UNIT_MSEC     :    0: 59807: 323870: 491109: 8299425: 29789: 23025: 20721: 24757: 7328
+TEN_MSEC      :    0: 151190: 19730:   95:  133:    0:    0:   49:   21:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      9458785
+THROUGHPUT=92617.25
+BURST_SIZE=600
+RT_LATENCY=6091.169
+THROUGHPUT_CONFID=12.974
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    0:    0:    3:    1
+HUNDRED_USEC  :    0:   70:   70:  124:   45:   22:   87:  291:  410:  161
+UNIT_MSEC     :    0: 42619: 343895: 495378: 672255: 7407652: 32099: 26859: 34771: 11282
+TEN_MSEC      :    0: 182717: 10556:  356:   86:    0:    0:   71:   16:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      9261896
+THROUGHPUT=95799.95
+BURST_SIZE=650
+RT_LATENCY=6540.580
+THROUGHPUT_CONFID=14.443
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    0:    0:    4:    4
+HUNDRED_USEC  :    0:   35:  112:  190:   49:   41:  139:  144:  370:  248
+UNIT_MSEC     :    0: 65845: 341301: 490975: 629284: 7775425: 57080: 23959: 32272: 11722
+TEN_MSEC      :    0: 143409: 7360:   54:   73:    0:    0:   50:   23:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      9580168
+THROUGHPUT=96497.02
+BURST_SIZE=700
+RT_LATENCY=7145.502
+THROUGHPUT_CONFID=11.214
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    1:    0:    1:    1
+HUNDRED_USEC  :    0:   52:   90:  150:   91:  135:   58:  216:  103:  139
+UNIT_MSEC     :    0: 76074: 347974: 485252: 624254: 4978675: 2900704: 26435: 47523: 20616
+TEN_MSEC      :    0: 138379: 2686:   98:  104:    0:    0:   58:   25:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      9649894
+THROUGHPUT=95070.52
+BURST_SIZE=750
+RT_LATENCY=8151.416
+THROUGHPUT_CONFID=10.593
+
+Histogram of request/response times
+UNIT_USEC     :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_USEC      :    0:    0:    0:    0:    0:    0:    0:    1:    1:    2
+HUNDRED_USEC  :    0:   33:   73:  221:   26:   23:   12:    0:   31:  197
+UNIT_MSEC     :    0: 62340: 345702: 486028: 632840: 774817: 6936572: 41074: 44215: 23841
+TEN_MSEC      :    0: 155459: 3399:   82:  122:    0:    0:   65:   29:    0
+HUNDRED_MSEC  :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+UNIT_SEC      :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+TEN_SEC       :    0:    0:    0:    0:    0:    0:    0:    0:    0:    0
+>100_SECS: 0
+HIST_TOTAL:      9507205
